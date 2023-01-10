@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D11891
 - 👀 I’m interested in Project&Product Management
-- 🌱 I’m currently learning Python, SQL and 3D modeling
+- 🌱 I’m currently learning web design and 3D modeling
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Telegram @D11891 
 
